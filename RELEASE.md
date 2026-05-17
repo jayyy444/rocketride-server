@@ -1,4 +1,4 @@
-# Release Process
+
 
 This document describes the automated release pipeline for the RocketRide Engine monorepo. All releases are driven by GitHub Actions workflows and require no manual artifact creation.
 
